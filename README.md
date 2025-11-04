@@ -1,2 +1,2 @@
 # Week-1
-Predicting Hourly Air Quality Index (AQI) using Simple ML Techniques
+Prediction of Household Power Consumption Using Machine Learning
